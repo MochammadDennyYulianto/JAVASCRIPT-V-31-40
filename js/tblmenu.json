@@ -1,0 +1,29 @@
+[
+  {
+    "idmenu": 1,
+    "idkategori": 1,
+    "menu": "Apel Manalagi",
+    "harga": 3000,
+    "warna": ["merah", "kuning", "hijau"],
+    "stok": true,
+    "keterangan": null
+  },
+  {
+    "idmenu": 2,
+    "idkategori": 2,
+    "menu": "Pisang",
+    "harga": 4000,
+    "warna": ["merah", "kuning"],
+    "stok": false,
+    "keterangan": null
+  },
+  {
+    "idmenu": 3,
+    "idkategori": 3,
+    "menu": "Ayam Goreng",
+    "harga": 10000,
+    "warna": ["merah", "kuning"],
+    "stok": false,
+    "keterangan": null
+  }
+]
